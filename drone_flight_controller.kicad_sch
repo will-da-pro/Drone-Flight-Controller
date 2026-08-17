@@ -10803,6 +10803,16 @@
 		)
 		(uuid "76610b3c-11e9-40d1-8af7-d0e6de34c94e")
 	)
+	(label "CC2"
+		(at 48.26 173.99 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "76b839af-8548-4998-ab08-696826bccd14")
+	)
 	(label "I2C_SCL"
 		(at 175.26 57.15 270)
 		(effects
@@ -10982,6 +10992,16 @@
 			(justify left bottom)
 		)
 		(uuid "bfe287b0-8abc-46ce-9ece-298f11e071e9")
+	)
+	(label "CC1"
+		(at 48.26 171.45 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "c009948f-4c82-4b9e-bc2d-c4cea7e57308")
 	)
 	(label "SPI_MOSI"
 		(at 379.73 171.45 0)
