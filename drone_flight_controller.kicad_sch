@@ -7858,12 +7858,6 @@
 		(uuid "15f58194-6dce-4592-9719-c3ac7823caaa")
 	)
 	(junction
-		(at 133.35 238.76)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "22041ee3-0f86-4e3a-8d6e-1891612f198c")
-	)
-	(junction
 		(at 45.72 83.82)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -7930,22 +7924,10 @@
 		(uuid "3b838278-3057-4d29-8ac8-041371645e7e")
 	)
 	(junction
-		(at 120.65 238.76)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "3c9710f5-29a4-4bdd-8f6e-a4f8b01f42d6")
-	)
-	(junction
 		(at 33.02 34.29)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "3ca8b0b5-68c2-4b72-b02c-2aff05211a08")
-	)
-	(junction
-		(at 120.65 251.46)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "42cc467a-3c68-4fd1-994b-074e98afc8e1")
 	)
 	(junction
 		(at 381 186.69)
@@ -8072,12 +8054,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7fc50d06-6be1-4d12-a023-a42c44e1022b")
-	)
-	(junction
-		(at 107.95 251.46)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "808abf1a-25bc-44ab-a4c0-acf0686eb71b")
 	)
 	(junction
 		(at 199.39 238.76)
@@ -8360,16 +8336,6 @@
 			(type default)
 		)
 		(uuid "0757b332-0e55-4019-97df-252bc0b31f8d")
-	)
-	(wire
-		(pts
-			(xy 120.65 238.76) (xy 120.65 242.57)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "07e59e02-d99d-4110-af59-770d8913a2f9")
 	)
 	(wire
 		(pts
@@ -8873,27 +8839,7 @@
 	)
 	(wire
 		(pts
-			(xy 107.95 251.46) (xy 120.65 251.46)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "334339d6-9c0a-4b60-89bf-a4adfece4c60")
-	)
-	(wire
-		(pts
-			(xy 120.65 251.46) (xy 120.65 250.19)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "33e56a11-9a35-4094-81b9-233ede4a5ecd")
-	)
-	(wire
-		(pts
-			(xy 133.35 238.76) (xy 137.16 238.76)
+			(xy 115.57 238.76) (xy 137.16 238.76)
 		)
 		(stroke
 			(width 0)
@@ -9000,16 +8946,6 @@
 			(type default)
 		)
 		(uuid "3cb8b9da-4cb7-4ad5-adee-f4cf6ec742fc")
-	)
-	(wire
-		(pts
-			(xy 107.95 266.7) (xy 107.95 251.46)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3de2a38c-e791-4eb5-a468-beff234bdeae")
 	)
 	(wire
 		(pts
@@ -9663,16 +9599,6 @@
 	)
 	(wire
 		(pts
-			(xy 120.65 238.76) (xy 133.35 238.76)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "79e5ea32-f6f2-411d-beb4-63fc3bfb554f")
-	)
-	(wire
-		(pts
 			(xy 162.56 92.71) (xy 162.56 91.44)
 		)
 		(stroke
@@ -9800,16 +9726,6 @@
 			(type default)
 		)
 		(uuid "86b43856-f185-412e-9965-e56c36f565d3")
-	)
-	(wire
-		(pts
-			(xy 133.35 251.46) (xy 133.35 250.19)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8a02e649-90b8-4046-adad-2d29de397730")
 	)
 	(wire
 		(pts
@@ -10183,7 +10099,7 @@
 	)
 	(wire
 		(pts
-			(xy 107.95 251.46) (xy 107.95 250.19)
+			(xy 107.95 250.19) (xy 107.95 266.7)
 		)
 		(stroke
 			(width 0)
@@ -10470,16 +10386,6 @@
 			(type default)
 		)
 		(uuid "c88d59e7-1c8f-4c94-87a9-1fbc9d28f459")
-	)
-	(wire
-		(pts
-			(xy 120.65 251.46) (xy 133.35 251.46)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c952b6a1-007c-46d8-9758-f4bb20960c16")
 	)
 	(wire
 		(pts
@@ -11020,26 +10926,6 @@
 			(type default)
 		)
 		(uuid "fea6219c-2224-481a-9bf0-88b0cdf236d2")
-	)
-	(wire
-		(pts
-			(xy 133.35 238.76) (xy 133.35 242.57)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "feb5e094-fee2-4377-94a1-699ec1a58827")
-	)
-	(wire
-		(pts
-			(xy 115.57 238.76) (xy 120.65 238.76)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ff435d09-d981-465c-8672-00ee91cac113")
 	)
 	(wire
 		(pts
@@ -12804,7 +12690,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
+		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2"
 			(at 316.23 227.33 0)
 			(hide yes)
 			(show_name no)
@@ -13685,7 +13571,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
+		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2"
 			(at 316.23 237.49 0)
 			(hide yes)
 			(show_name no)
@@ -14516,7 +14402,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_JST:JST_SH_BM06B-SRSS-TB_1x06-1MP_P1.00mm_Vertical"
+		(property "Footprint" "Connector_JST:JST_SH_SM06B-SRSS-TB_1x06-1MP_P1.00mm_Horizontal"
 			(at 241.3 115.57 0)
 			(hide yes)
 			(show_name no)
@@ -16834,7 +16720,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
+		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2"
 			(at 287.02 227.33 0)
 			(hide yes)
 			(show_name no)
@@ -17424,7 +17310,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Inductor_SMD:L_Bourns_SRR1210A"
+		(property "Footprint" "Inductor_SMD:L_Vishay_IHLP-2525"
 			(at 78.74 238.76 0)
 			(hide yes)
 			(show_name no)
@@ -17948,88 +17834,6 @@
 			(project "drone_flight_controller"
 				(path "/e79cdf4a-50a5-43cf-905b-dc31372d98a3"
 					(reference "#PWR011")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 120.65 246.38 180)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "92c1fc59-dee5-483e-abad-e09c79985111")
-		(property "Reference" "C19"
-			(at 124.46 245.1099 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "22uF"
-			(at 124.46 247.6499 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 119.6848 242.57 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 120.65 246.38 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 120.65 246.38 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "1c39665c-57c2-462d-af5b-a0d07cd8f39d")
-		)
-		(pin "1"
-			(uuid "ba41f1bd-7400-424b-b0f5-29f40c6d3f50")
-		)
-		(instances
-			(project "drone_flight_controller"
-				(path "/e79cdf4a-50a5-43cf-905b-dc31372d98a3"
-					(reference "C19")
 					(unit 1)
 				)
 			)
@@ -20293,7 +20097,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_JST:JST_SH_BM08B-SRSS-TB_1x08-1MP_P1.00mm_Vertical"
+		(property "Footprint" "Connector_JST:JST_SH_SM08B-SRSS-TB_1x08-1MP_P1.00mm_Horizontal"
 			(at 306.07 102.87 0)
 			(hide yes)
 			(show_name no)
@@ -20458,88 +20262,6 @@
 			(project "drone_flight_controller"
 				(path "/e79cdf4a-50a5-43cf-905b-dc31372d98a3"
 					(reference "U6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 133.35 246.38 180)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "cbe8beeb-1e90-437a-b1a6-6c3bd12e3720")
-		(property "Reference" "C20"
-			(at 137.16 245.1099 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "22uF"
-			(at 137.16 247.6499 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 132.3848 242.57 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 133.35 246.38 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 133.35 246.38 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "6e5d79a6-2579-4044-a10c-7bf68f857c11")
-		)
-		(pin "1"
-			(uuid "b1cdeaa7-80a8-4eaa-a8f5-50350ad29ad5")
-		)
-		(instances
-			(project "drone_flight_controller"
-				(path "/e79cdf4a-50a5-43cf-905b-dc31372d98a3"
-					(reference "C20")
 					(unit 1)
 				)
 			)
@@ -21744,7 +21466,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
+		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2"
 			(at 287.02 237.49 0)
 			(hide yes)
 			(show_name no)
