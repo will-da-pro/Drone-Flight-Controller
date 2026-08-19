@@ -64,7 +64,7 @@
           "min_island_area": 10.0,
           "min_thickness": 0.25,
           "pad_connection": 2,
-          "remove_islands": 0,
+          "remove_islands": 1,
           "thermal_relief_gap": 0.5,
           "thermal_relief_spoke_width": 0.5
         }
@@ -158,7 +158,7 @@
         "min_silk_clearance": 0.0,
         "min_text_height": 0.8,
         "min_text_thickness": 0.08,
-        "min_through_hole_diameter": 0.3,
+        "min_through_hole_diameter": 0.2,
         "min_track_width": 0.2,
         "min_via_annular_width": 0.1,
         "min_via_diameter": 0.5,
@@ -502,7 +502,9 @@
     "pinned_footprint_libs": [
       "drone"
     ],
-    "pinned_symbol_libs": []
+    "pinned_symbol_libs": [
+      "drone"
+    ]
   },
   "meta": {
     "filename": "drone_flight_controller.kicad_pro",
@@ -678,7 +680,7 @@
         "uuid": "e79cdf4a-50a5-43cf-905b-dc31372d98a3"
       }
     ],
-    "used_designators": "H1-5,L1-2,R1-18,C1-30,C61-62,C69-72,FB1-3,D1-4,#PWR1-50,#PWR69-70,#PWR87,J1-5,Y1-2,U1-7",
+    "used_designators": "H1-5,L1-2,R1-18,C1-30,C61-62,C69-72,FB1-3,D1-6,#PWR1-52,#PWR69-70,#PWR87,J1-5,Y1-2,U1-8",
     "variants": []
   },
   "sheets": [
