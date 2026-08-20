@@ -12044,6 +12044,16 @@
 		)
 		(uuid "cfdd6586-41cf-44fd-81a7-c62fe6ce654d")
 	)
+	(label "GPS_TX"
+		(at 128.27 157.48 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "d0d499f8-473f-4105-87f1-5b4cd699a2b2")
+	)
 	(label "IST8310_NRST"
 		(at 347.98 71.12 180)
 		(effects
@@ -12153,6 +12163,16 @@
 			(justify left bottom)
 		)
 		(uuid "f8640b3b-679a-423f-8541-8c01575ed428")
+	)
+	(label "GPS_RX"
+		(at 128.27 160.02 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "f9fdc2a2-788f-4d1c-ba01-a44416ca758c")
 	)
 	(label "IST8310_DRDY"
 		(at 347.98 66.04 180)
